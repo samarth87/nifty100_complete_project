@@ -1,0 +1,13 @@
+table,rows_loaded,status,file
+companies,92,OK,companies.xlsx
+sectors,92,OK,sectors.xlsx
+profitandloss,1263,OK,profitandloss.xlsx
+balancesheet,1225,OK,balancesheet.xlsx
+cashflow,1164,OK,cashflow.xlsx
+analysis,20,OK,analysis.xlsx
+documents,1584,OK,documents.xlsx
+prosandcons,16,OK,prosandcons.xlsx
+peer_groups,56,OK,peer_groups.xlsx
+stock_prices,5520,OK,stock_prices.xlsx
+financial_ratios,1065,OK,financial_ratios.xlsx
+market_cap,552,OK,market_cap.xlsx
